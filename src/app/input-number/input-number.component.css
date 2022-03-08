@@ -1,0 +1,16 @@
+#input-number{
+    padding: 20px ;
+    width: 96%;
+    background: rgba(230, 100, 132, 0.527);
+    color: white;
+    display: block;
+    margin-top: 10px;
+    font-family: Arial;
+    text-align: center;
+    box-shadow: 3px 3px 3px yellowgreen;
+}
+#input-number>h2{
+    font-family: Arial;
+    color: white;
+    text-align: center;
+}

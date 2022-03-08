@@ -1,0 +1,22 @@
+input[type="file"]{
+    display: nome;
+}
+label{
+    padding: 20px ;
+    width: 96%;
+    background: rgba(230, 100, 132, 0.527);
+    color: white;
+    text-transform: uppercase;
+    display: block;
+    margin-top: 10px;
+    font-family: Arial;
+    text-align: center;
+    cursor: pointer;
+    transition: .5s;
+    box-shadow: 3px 3px 3px yellowgreen;
+}
+label:hover{
+    color:white;
+    background: rgb(236, 128, 169)
+    
+}
